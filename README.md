@@ -89,4 +89,4 @@ $ xcodebuild
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yavuzsemrem/foursquare-clone?tab=MIT-1-ov-file) file for details.
