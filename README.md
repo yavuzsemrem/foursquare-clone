@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Foursquare" width="200"></a>
+  <a href="#"><img src="https://github.com/yavuzsemrem/foursquare-clone/blob/main/Media/logo.png?raw=true" alt="Foursquare" width="200"></a>
   <br>
   Foursquare Clone
   <br>
@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![Intro GIF](https://github.com/yavuzsemrem/foursquare-clone/blob/main/Media/intro.gif?raw=true)
 
 ## Key Features
 
