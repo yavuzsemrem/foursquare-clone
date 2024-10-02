@@ -46,7 +46,7 @@ To run this project on your local machine, you'll need to have **Xcode** install
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yourusername/foursquare-clone
+$ git clone https://github.com/yavuzsemrem/foursquare-clone
 
 # Go into the repository
 $ cd foursquare-clone
